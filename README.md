@@ -19,7 +19,7 @@ I am expanding my expertise by completing a Data Science Professional Certificat
 
 
 ## I would love to connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/yanelly-hernandez)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanelly-hernandez-61b97a210/)
 
 
 <!--
