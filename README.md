@@ -21,7 +21,9 @@ I am expanding my expertise by completing a Data Science Professional Certificat
 1. [ds-m1-0424-code-solutions](https://github.com/yhernandez55/ds-m1-0424-code-solutions)
 This repository contains Python and SQL mini assignments that I completed during my LearningFuze boot camp. Each branch is a mini-assignment that I have completed with data that was used for the assignment. 
 2. [Regression-Analysis--Home-Prices](https://github.com/yhernandez55/Regression-Analysis--Home-Prices)
-The repository contains the first big project that I have worked on to predict house sale prices using machine learning techniques. In this project I compared models such as Linear Regression, Neural Networks, and XGBOOST for model performance. 
+The repository contains the first big project that I have worked on to predict house sale prices using machine learning techniques. In this project I compared models such as Linear Regression, Neural Networks, and XGBOOST for model performance.
+3. [Home_Credit_Default_Risk-Classification](https://github.com/yhernandez55/Home_Credit_Default_Risk-Classification)
+4. [Streamlit_Projects](https://github.com/yhernandez55/Streamlit_Projects)
 
 ## I would love to connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanelly-hernandez-61b97a210/)
