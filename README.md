@@ -2,11 +2,7 @@
 I'm Yanelly Hernandez, I am a Data Scientist in North California.
 
 ## About me:
-I’m passionate about leveraging data to drive informed decisions and develop innovative solutions. With a Bachelor's degree in Applied Mathematical Sciences, my academic journey has shown me the strong connection between mathematics and real-world applications. My fascination with data analytics grew during my undergraduate studies, where I explored courses in statistical methods, probability, numerical methods, and computational techniques.
-
-One of the highlights of my academic experience was using mathematics to model real-world problems across various domains. Additionally, I completed Coursera's Google Data Analytics course, which further fueled my passion for analytics. Through that course, I honed my skills in manipulating large datasets, identifying patterns, and extracting meaningful insights.
-
-I am expanding my expertise by completing a Data Science Professional Certificate at LearningFuze, which I will finish in October 2024. This program has deepened my passion for data analytics and data science. I am eager to apply this knowledge to solve complex problems and contribute to impactful projects.
+I am passionate about leveraging data to drive informed decisions and develop innovative solutions. With a Bachelor's degree in Applied Mathematical Sciences, my academic journey has highlighted the strong connection between mathematics and real-world applications. My fascination with data analytics began during my undergraduate studies, where I delved into courses on statistical methods, probability, numerical methods, and computational techniques. Additionally, I hold a Data Science Professional Certificate issued by LearningFuze, which has further deepened my passion for data analytics and data science. I am eager to apply this knowledge to solve complex problems and contribute to impactful projects. A highlight of my academic experience was using mathematics to model real-world problems across various domains.
 
 ## 🛠️ Technologies & Tools
 
@@ -19,11 +15,14 @@ I am expanding my expertise by completing a Data Science Professional Certificat
 
 ## Table of Contents:
 1. [ds-m1-0424-code-solutions](https://github.com/yhernandez55/ds-m1-0424-code-solutions)
-This repository contains Python and SQL mini assignments that I completed during my LearningFuze boot camp. Each branch is a mini-assignment that I have completed with data that was used for the assignment. 
+This repository contains Python and SQL mini-assignments I completed during my LearningFuze boot camp. Each branch corresponds to a mini-assignment I completed, along with the data used for the assignment. The data includes datasets provided by the boot camp, which are tailored for each specific exercise to enhance learning in Python scripting and SQL querying.
 2. [Regression-Analysis--Home-Prices](https://github.com/yhernandez55/Regression-Analysis--Home-Prices)
-The repository contains the first big project that I have worked on to predict house sale prices using machine learning techniques. In this project I compared models such as Linear Regression, Neural Networks, and XGBOOST for model performance.
+This repository contains the first major project I worked on, aimed at predicting house sale prices using machine learning techniques. In this project, I compared models such as Linear Regression, Neural Networks, and XGBOOST to evaluate their performance. The data used for this project is from the Kaggle House Prices - Advanced Regression Techniques competition, which includes detailed property characteristics and sale prices. The repository includes the model notebook, an extended EDA, submissions for the three models, and the preprocessing functions used in the project.
 3. [Home_Credit_Default_Risk-Classification](https://github.com/yhernandez55/Home_Credit_Default_Risk-Classification)
-4. [Streamlit_Projects](https://github.com/yhernandez55/Streamlit_Projects)
+This repository contains the second major project I worked on, which focused on predicting whether a client could repay their loan. I compared Neural Networks and XGBOOST models, evaluating different parameters to determine the most accurate one. The data for this project is sourced from the Kaggle Home Credit Default Risk competition, featuring financial and demographic information about loan applicants. The repository includes the model notebook, an extended EDA, one model submission, and the preprocessing functions used in the project.
+5. [Streamlit_Projects](https://github.com/yhernandez55/Streamlit_Projects)
+This repository holds three mini-projects designed to be interactive for viewers. The first project detects whether a message is spam using a dataset of SMS messages labeled as spam or not. The second project predicts flight prices using a dataset that includes multiple demographic and flight-related features. The third project classifies wine reviews as positive or negative using a dataset of wine reviews with associated ratings.
+
 
 ## I would love to connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanelly-hernandez-61b97a210/)
