@@ -43,13 +43,12 @@ A collection of three interactive mini-projects built with Streamlit:
   - Wine Review Sentiment Analysis: Classifies wine reviews as positive or negative based on text and ratings.
 
 10. [nyc-motor-vehicle-collisions](https://github.com/yhernandez55/nyc-motor-vehicle-collisions)
-This project analyzes motor vehicle collisions in New York City using data from NYC OpenData to identify trends, contributing factors, and patterns in accidents. The goal is to provide data-driven insights and recommendations for improving road safety.
-
-Key Highlights:
-   - Exploratory Data Analysis (EDA): Identified trends in accident frequency, locations, and causes.
-   - Data Visualization: Created interactive charts and geospatial visualizations to illustrate accident hotspots.
-   - Insights & Recommendations: Propose steps to enhance road safety, especially for vulnerable users.
-   - Final Deliverable: Developed a virtual poster presentation summarizing the findings and policy recommendations.
+This project analyzes motor vehicle collisions in New York City using data from NYC OpenData to identify trends, contributing factors, and accident patterns. The goal is to provide data-driven insights and recommendations for improving road safety.
+  Key Highlights:
+     - Exploratory Data Analysis (EDA): Identified trends in accident frequency, locations, and causes.
+     - Data Visualization: Created interactive charts and geospatial visualizations to illustrate accident hotspots.
+     - Insights & Recommendations: Propose steps to enhance road safety, especially for vulnerable users.
+     - Final Deliverable: Developed a virtual poster presentation summarizing the findings and policy recommendations.
 This project showcases my skills in data analysis, visualization, and storytelling, reinforcing my ability to translate raw data into actionable insights.
 
 
