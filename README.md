@@ -51,6 +51,13 @@ This project analyzes motor vehicle collisions in New York City using data from 
      - Final Deliverable: Developed a virtual poster presentation summarizing the findings and policy recommendations.
 This project showcases my skills in data analysis, visualization, and storytelling, reinforcing my ability to translate raw data into actionable insights.
 
+11. [gemini-sql-data-assistant](https://github.com/yhernandez55/gemini-sql-data-assistant)
+This project leverages Google Cloud’s Gemini API to build an AI-powered assistant that helps users explore datasets through natural language questions. The tool translates questions into SQL queries and explains results in plain English. It supports CSV uploads or defaults to a built-in dataset, and runs on both Kaggle and local environments.
+Key Highlights:
+  - AI Integration: Used Google Gemini to generate SQL from user input.
+  - Interactive Design: Created a loop for dynamic, chat-style data exploration.
+  - Data Flexibility: Supports both Kaggle datasets and user-uploaded CSVs.
+  - Final Deliverable: A notebook-based assistant showcasing GenAI in real-world data workflows.
 
 ## I would love to connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanelly-hernandez-61b97a210/)
