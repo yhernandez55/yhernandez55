@@ -59,6 +59,13 @@ Key Highlights:
   - Data Flexibility: Supports both Kaggle datasets and user-uploaded CSVs.
   - Final Deliverable: A notebook-based assistant showcasing GenAI in real-world data workflows.
 
+12. [image-retrieval](https://github.com/yhernandez55/image-retrieval)
+This project performs image retrieval and classification on 101 categories from the Caltech101 dataset. A ResNet50 convolutional neural network was used for feature extraction, chosen for its superior performance compared to ResNet18 and ResNet34. The project uses metric learning techniques to generate image embedding vectors, allowing efficient similarity-based retrieval. This repository includes:
+- A notebook containing the training and evaluation pipeline (including Precision@k, Recall@k, and F1@k where k=1)
+- The Caltech101 dataset
+- A Streamlit-based interactive app that allows users to upload an image and retrieves visually similar images from the dataset
+
+
 ## I would love to connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanelly-hernandez-61b97a210/)
 
