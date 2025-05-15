@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Yanelly Hernandez, I am a Data Scientist in North California.
+I'm Yanelly Hernandez, I am a Data Scientist in Northern California.
 
 ## About me:
 I am passionate about leveraging data to drive informed decisions and develop innovative solutions. With a Bachelor's degree in Applied Mathematical Sciences, my academic journey has highlighted the strong connection between mathematics and real-world applications. My fascination with data analytics began during my undergraduate studies, where I delved into courses on statistical methods, probability, numerical methods, and computational techniques. Additionally, I hold a Data Science Professional Certificate issued by LearningFuze, which has further deepened my passion for data analytics and data science. I am eager to apply this knowledge to solve complex problems and contribute to impactful projects. A highlight of my academic experience was using mathematics to model real-world problems across various domains.
@@ -63,7 +63,7 @@ Key Highlights:
 This project performs image retrieval and classification on 101 categories from the Caltech101 dataset. A ResNet50 convolutional neural network was used for feature extraction, chosen for its superior performance compared to ResNet18 and ResNet34. The project uses metric learning techniques to generate image embedding vectors, allowing efficient similarity-based retrieval. This repository includes:
 - A notebook containing the training and evaluation pipeline (including Precision@k, Recall@k, and F1@k where k=1)
 - The Caltech101 dataset
-- A Streamlit-based interactive app that allows users to upload an image and retrieves visually similar images from the dataset
+- A Streamlit-based interactive app that allows users to upload an image and retrieve visually similar images from the dataset
 
 
 ## I would love to connect!
