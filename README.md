@@ -1,8 +1,12 @@
 ## Hi there 👋
-I'm Yanelly Hernandez, I am a Data Scientist in Northern California.
+I'm Yanelly Hernandez, and I am a Data Scientist in Northern California.
 
 ## About me:
-I am passionate about leveraging data to drive informed decisions and develop innovative solutions. With a Bachelor's degree in Applied Mathematical Sciences, my academic journey has highlighted the strong connection between mathematics and real-world applications. My fascination with data analytics began during my undergraduate studies, where I delved into courses on statistical methods, probability, numerical methods, and computational techniques. Additionally, I hold a Data Science Professional Certificate issued by LearningFuze, which has further deepened my passion for data analytics and data science. I am eager to apply this knowledge to solve complex problems and contribute to impactful projects. A highlight of my academic experience was using mathematics to model real-world problems across various domains.
+I’m passionate about leveraging data to drive informed decisions and build innovative solutions. I hold a Bachelor’s degree in Applied Mathematical Sciences, where I developed a strong foundation in statistics, probability, numerical methods, and computational techniques—skills that connect mathematics to real-world impact.
+
+My interest in data analytics began during my undergraduate studies and grew through hands-on projects and advanced coursework. I further gained my skills by earning a Data Science Professional Certificate from LearningFuze, where I deepened my understanding of machine learning, data visualization, and predictive modeling.
+
+Outside of formal education, I’ve completed a range of independent data science and machine learning projects, including predictive modeling, image retrieval systems, and interactive data applications, that demonstrate my ability to apply theory to practice. I thrive on solving complex problems and translating data into actionable insights.
 
 
 ## 🛠️ Technologies & Tools
@@ -52,7 +56,7 @@ This project analyzes motor vehicle collisions in New York City using data from 
 This project showcases my skills in data analysis, visualization, and storytelling, reinforcing my ability to translate raw data into actionable insights.
 
 11. [gemini-sql-data-assistant](https://github.com/yhernandez55/gemini-sql-data-assistant)
-This project leverages Google Cloud’s Gemini API to build an AI-powered assistant that helps users explore datasets through natural language questions. The tool translates questions into SQL queries and explains results in plain English. It supports CSV uploads or defaults to a built-in dataset, and runs on both Kaggle and local environments.
+This project utilizes Google Cloud’s Gemini API to develop an AI-powered assistant that enables users to explore datasets through natural language queries. The tool translates questions into SQL queries and explains results in plain English. It supports CSV uploads or defaults to a built-in dataset, and runs on both Kaggle and local environments.
 Key Highlights:
   - AI Integration: Used Google Gemini to generate SQL from user input.
   - Interactive Design: Created a loop for dynamic, chat-style data exploration.
