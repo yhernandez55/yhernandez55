@@ -1,12 +1,25 @@
 ## Hi there 👋
-I'm Yanelly Hernandez, and I am a Data Scientist in Northern California.
+I'm Yanelly Hernandez — a Vineyard Data Technician and Data Analyst based in Northern California, currently managing and analyzing vineyard operations data at Stag’s Leap Wine Cellars while continuing to grow my skills in data science, analytics, and machine learning.
+
+I love combining structured operations data with analytical tools to uncover insights that improve efficiency and sustainability.  
 
 ## About me:
-I’m passionate about leveraging data to drive informed decisions and build innovative solutions. I hold a Bachelor’s degree in Applied Mathematical Sciences, where I developed a strong foundation in statistics, probability, numerical methods, and computational techniques—skills that connect mathematics to real-world impact.
+I’m passionate about leveraging data to drive informed decisions and build innovative solutions.
+I hold a Bachelor’s degree in Applied Mathematical Sciences, where I developed a strong foundation in statistics, probability, numerical methods, and computational techniques—skills that connect mathematics to real-world impact.
 
-My interest in data analytics began during my undergraduate studies and grew through hands-on projects and advanced coursework. I further gained my skills by earning a Data Science Professional Certificate from LearningFuze, where I deepened my understanding of machine learning, data visualization, and predictive modeling.
+My journey into data analytics began during my undergraduate studies and evolved through hands-on projects, advanced coursework, and a Data Science Professional Certificate from LearningFuze, where I deepened my understanding of machine learning, data visualization, and predictive modeling.
 
-Outside of formal education, I’ve completed a range of independent data science and machine learning projects, including predictive modeling, image retrieval systems, and interactive data applications, that demonstrate my ability to apply theory to practice. I thrive on solving complex problems and translating data into actionable insights.
+Today, I continue to apply and expand these skills through real-world projects that combine data science, sustainability, and process optimization. 
+
+
+## 💼 Current Role
+**Vineyard Data Technician — Stag’s Leap Wine Cellars (Napa, CA)**  
+*October 2025 – Present | Part-Time, On-Site*  
+
+- Manage daily vineyard labor and materials data using **AgCode**, ensuring accuracy for cost and time tracking.  
+- Audit and reconcile timecards from **Farm Labor Contractors** and support payroll processing through **Paylocity**.  
+- Collaborate with vineyard management to maintain accurate operational records and support reporting in **Microsoft Excel**.  
+- Build foundational datasets to support future data analysis and performance tracking in vineyard operations.
 
 
 ## 🛠️ Technologies & Tools
@@ -17,6 +30,8 @@ Outside of formal education, I’ve completed a range of independent data scienc
 - 📝 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 - 💬 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
 - 🐙 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+- 🧠 ![AgCode](https://img.shields.io/badge/-AgCode-005A9C?style=flat)
+- 💵 ![Paylocity](https://img.shields.io/badge/-Paylocity-FF6600?style=flat&logo=paylocity&logoColor=white)
 
 
 ## Table of Contents:
