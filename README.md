@@ -84,6 +84,13 @@ This project performs image retrieval and classification on 101 categories from 
 - The Caltech101 dataset
 - A Streamlit-based interactive app that allows users to upload an image and retrieve visually similar images from the dataset
 
+13. [multi-agent-analyzer](https://github.com/yhernandez55/multi-agent-stock-analyzer)
+This project implements a multi-agent AI investment research system built with Google ADK. It uses specialized agents (research, analysis, validation) coordinated by a main agent to automate stock research and produce explainable BUY/HOLD/AVOID recommendations. The system integrates:
+- real-time Yahoo Finance data
+- structured valuation reasoning (Valuation → Growth → Risk)
+- short-term memory, and an automated evaluation suite.
+It runs both as a Kaggle-hosted interactive demo and as a local Python application.
+
 
 ## I would love to connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanelly-hernandez-61b97a210/)
