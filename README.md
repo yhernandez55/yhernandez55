@@ -1,25 +1,23 @@
 ## Hi there 👋
-I'm Yanelly Hernandez — a Vineyard Data Technician and Data Analyst based in Northern California, currently managing and analyzing vineyard operations data at Stag’s Leap Wine Cellars while continuing to grow my skills in data science, analytics, and machine learning.
+I'm Yanelly Hernandez — a Data Analyst based in Northern California. I specialize in bridging the gap between complex datasets and operational excellence, currently focused on Healthcare Data Analytics at Communicare+OLE.
 
-I love combining structured operations data with analytical tools to uncover insights that improve efficiency and sustainability.  
+I thrive on transforming raw, structured data into actionable insights that improve organizational efficiency and clinical outcomes.
 
 ## About me:
-I’m passionate about leveraging data to drive informed decisions and build innovative solutions.
-I hold a Bachelor’s degree in Applied Mathematical Sciences, where I developed a strong foundation in statistics, probability, numerical methods, and computational techniques—skills that connect mathematics to real-world impact.
+I am a problem-solver at heart, driven by a passion for leveraging data to build innovative solutions. With a B.S. in Applied Mathematical Sciences, I bring a rigorous foundation in statistics, probability, and numerical methods to every dataset I touch.
 
-My journey into data analytics began during my undergraduate studies and evolved through hands-on projects, advanced coursework, and a Data Science Professional Certificate from LearningFuze, where I deepened my understanding of machine learning, data visualization, and predictive modeling.
+My journey evolved from optimizing vineyard operations at Stag’s Leap Wine Cellars to architecting data solutions in the healthcare space. Through a Data Science Professional Certificate from LearningFuze, I’ve gained skills in machine learning, predictive modeling, and advanced data visualization.
 
-Today, I continue to apply and expand these skills through real-world projects that combine data science, sustainability, and process optimization. 
+Today, I apply these technical skills to ensure data integrity, quality improvement (QI), and clinical decision support in the healthcare sector.
 
 
 ## 💼 Current Role
-**Data Analyst— CommuniCare+OLE(Napa, CA)**  
-*Feburary 2026 – Present | Part-Time, Hybrid*  
-- Architecting and optimizing complex SQL queries to extract insights from healthcare datasets, ensuring high data integrity for clinical decision-making.
-- Developing automated dashboards and reporting pipelines to streamline Quality Improvement (QI) workflows and operational efficiency.
-- Bridging the gap between raw data systems and clinical teams by translating healthcare metrics into actionable technical requirements.
-- Manage daily vineyard labor and materials data using **AgCode**, ensuring accuracy for cost and time tracking.  
-- Focus: **SQL** | **Epic** | **Relevant** | **Microsoft Excel**.  
+### **Data Analyst @ Communicare+OLE**
+*Feb 2026 – Present*
+> **Focus:** `SQL` | `Epic (EHR)` | `Relevant` | `Microsoft Excel`
+* **Architecting and optimizing complex SQL queries** to extract insights from healthcare datasets, ensuring high data integrity for clinical decision-making.
+* **Developing automated dashboards and reporting pipelines** to streamline Quality Improvement (QI) workflows and operational efficiency.
+* **Bridging the gap** between raw data systems and clinical teams by translating healthcare metrics into actionable technical requirements.
 
 
 ## 🛠️ Technologies & Tools
@@ -31,6 +29,9 @@ Today, I continue to apply and expand these skills through real-world projects t
 - 💬 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
 - 🐙 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 - 🧠 ![AgCode](https://img.shields.io/badge/-AgCode-005A9C?style=flat)
+- 🏥 ![Epic](https://img.shields.io/badge/-Epic_EHR-ED1C24?style=flat&logoColor=white)
+- 📈 ![Relevant](https://img.shields.io/badge/-Relevant-00AEEF?style=flat&logoColor=white)
+- 🗄️ ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
   
 
 ## Table of Contents:
