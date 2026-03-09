@@ -13,13 +13,13 @@ Today, I continue to apply and expand these skills through real-world projects t
 
 
 ## 💼 Current Role
-**Vineyard Data Technician — Stag’s Leap Wine Cellars (Napa, CA)**  
-*October 2025 – Present | Part-Time, On-Site*  
-
+**Data Analyst— CommuniCare+OLE(Napa, CA)**  
+*Feburary 2026 – Present | Part-Time, Hybrid*  
+- Architecting and optimizing complex SQL queries to extract insights from healthcare datasets, ensuring high data integrity for clinical decision-making.
+- Developing automated dashboards and reporting pipelines to streamline Quality Improvement (QI) workflows and operational efficiency.
+- Bridging the gap between raw data systems and clinical teams by translating healthcare metrics into actionable technical requirements.
 - Manage daily vineyard labor and materials data using **AgCode**, ensuring accuracy for cost and time tracking.  
-- Audit and reconcile timecards from **Farm Labor Contractors** and support payroll processing through **Paylocity**.  
-- Collaborate with vineyard management to maintain accurate operational records and support reporting in **Microsoft Excel**.  
-- Build foundational datasets to support future data analysis and performance tracking in vineyard operations.
+- Focus: **SQL** | **Epic** | **Relevant** | **Microsoft Excel**.  
 
 
 ## 🛠️ Technologies & Tools
@@ -31,8 +31,7 @@ Today, I continue to apply and expand these skills through real-world projects t
 - 💬 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
 - 🐙 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 - 🧠 ![AgCode](https://img.shields.io/badge/-AgCode-005A9C?style=flat)
-- 💵 ![Paylocity](https://img.shields.io/badge/-Paylocity-FF6600?style=flat&logo=paylocity&logoColor=white)
-
+  
 
 ## Table of Contents:
 1. [ds-m1-0424-code-solutions](https://github.com/yhernandez55/ds-m1-0424-code-solutions)
