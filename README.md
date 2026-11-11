@@ -12,7 +12,7 @@ Today, I apply these technical skills to ensure data integrity, quality improvem
 
 
 ## 💼 Current Role
-### **Data Analyst @ Communicare+OLE**
+### **Data Analyst @ OLE Health**
 *Feb 2026 – Present*
 > **Focus:** `SQL` | `Epic (EHR)` | `Relevant` | `Microsoft Excel`
 * **Architecting and optimizing complex SQL queries** to extract insights from healthcare datasets, ensuring high data integrity for clinical decision-making.
